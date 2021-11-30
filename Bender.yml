@@ -8,7 +8,7 @@ package:
     - "Francesco Conti <f.conti@unibo.it>"
 
 dependencies:
-  udma_core: { git: "https://github.com/pulp-platform/udma_core.git", version: 1.0.2 }
+  udma_core: { git: "https://github.com/Alsaqr-platform/udma_core.git", version: 2.0.0 }
   common_cells: { git: "https://github.com/pulp-platform/common_cells.git", version: 1.21.0 }
   tech_cells_generic: { git: "https://github.com/pulp-platform/tech_cells_generic.git", version: 0.2.3 }
 
